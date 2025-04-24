@@ -1,8 +1,5 @@
 package ru.ulyaprohorofa;
 
-import java.sql.SQLOutput;
-import java.util.SortedMap;
-
 public class JavaOperators {
     public static void main(String[] args) {
         int a = 7;
